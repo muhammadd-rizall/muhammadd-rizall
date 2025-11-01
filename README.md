@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Muhammad Rizal<br><br>- 🔭 I’m currently working as Fullstack Web & Mobile Developer<br>- 📚 I’m currently learning advanced backend architecture and RESTful API,<br>- 💡I am enthusiastic about learning new things</p>
+<p align="left">I'm Muhammad Rizal<br><br>- 🔭 Currently diving into Fullstack Web & Mobile Development <br>- 📚 Learning advanced backend concepts and RESTful API design<br>- 💡 Always curious and excited to learn something new every day</p>
 
 ###
 
