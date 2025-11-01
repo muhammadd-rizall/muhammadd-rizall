@@ -75,12 +75,19 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadd-rizall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadd-rizall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadd-rizall&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=muhammadd-rizall&theme=dracula&hide_border=false" alt="Streak Stats" /><br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadd-rizall&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
 </div>
+
 
 ###
 
